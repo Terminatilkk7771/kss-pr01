@@ -1,0 +1,9 @@
+﻿node_modules/
+.env
+*.log
+dist/
+.vscode/*
+!.vscode/settings.json
+*.docx
+*.pdf
+pr01-materials/
