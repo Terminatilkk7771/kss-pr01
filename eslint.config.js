@@ -15,6 +15,7 @@ export default [
       "no-unused-vars": "error",
       "prefer-const": "error",
       eqeqeq: "error",
+      "no-var": "error",
     },
   },
   prettier,
